@@ -8,6 +8,8 @@
   [#448](https://github.com/pulumi/pulumi-eks/pull/448)
 - Add a flag to allow disabling creation of VPC CNI
   [#493](https://github.com/pulumi/pulumi-eks/pull/493)
+- Upgrade version of AWS VPC CNI to v1.7.5
+  [#496](https://github.com/pulumi/pulumi-eks/pull/496)
 
 ## 0.20.0 (Released September 3, 2020)
 
